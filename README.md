@@ -3,7 +3,7 @@
 
 <p align="center">
 <img 
-    src=".cover.png"
+    src="cover.png"
     width="400"  
 />
 </p>
