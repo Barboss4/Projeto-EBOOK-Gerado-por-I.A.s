@@ -16,7 +16,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href=" ---" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href=" (https://github.com/Barboss4/Projeto-EBOOK-Gerado-por-I.A.s/blob/main/Deep%20Learning%20Mega%20Mastery.pdf)" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
